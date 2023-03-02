@@ -1,0 +1,26 @@
+{
+  "name": "igp-btc-fsd-mongoose-intro",
+  "version": "1.0.0",
+  "description": "Project for testing MongoDB and Mongoose (an object modeling for node.js)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilkogarcia/igp-btc-fsd-mongoose-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilkogarcia/igp-btc-fsd-mongoose-intro/issues"
+  },
+  "homepage": "https://github.com/ilkogarcia/igp-btc-fsd-mongoose-intro#readme",
+  "dependencies": {
+    "dotenv": "16.0.3",
+    "express": "4.18.2",
+    "nodemon": "2.0.20"
+  }
+}
